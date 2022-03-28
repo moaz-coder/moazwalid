@@ -1,0 +1,15 @@
+body{
+    padding-top: 170px;
+    background-color: rgb(247, 251, 243);
+}
+
+.progress {
+    position: relative;
+    top: -90px;
+}
+.form2 .container{
+position: relative;
+top: 200px;
+border: 4px solid rgb(230, 152, 152);
+border-radius: 2%;
+}
